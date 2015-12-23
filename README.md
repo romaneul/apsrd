@@ -2,36 +2,31 @@ Settlement Report Aggregator for Amazon Payments - Firefox Addon
 ================================================================
 
 
-![Awesome cat gif](https://s3.eu-central-1.amazonaws.com/eps-eu-external-file-share/Settlement_Report_Aggregator/documentation/settlement_report_aggregator_setup.gif)
 
+Prerequisites
+============
+* Firefox 38 or newer
 
 Installation
 ============
 
-The aws-shell requires python and `pip`_ to install.
-You can install the aws-shell using `pip`_::
+For the installation follow two simple steps:
+* Download the extension from [here](https://s3.eu-central-1.amazonaws.com/eps-eu-external-file-share/Settlement_Report_Aggregator/settlement_report_aggregator_for_amazon_payments-current.xpi)
+* Drag & drop the downloaded file to your Firefox browser and install
 
-    $ pip install aws-shell
+Once installed you see a the extensions's icon ![addon_button_icon](https://s3.eu-central-1.amazonaws.com/eps-eu-external-file-share/Settlement_Report_Aggregator/documentation/arrow-circle-bottom-disabled.png) in the Firefox toolbar. 
 
-If you are not installing into a virtualenv you can run::
 
-    $ sudo pip install aws-shell
+![setup_instructions](https://s3.eu-central-1.amazonaws.com/eps-eu-external-file-share/Settlement_Report_Aggregator/documentation/settlement_report_aggregator_setup.gif)
 
-**Mac OS X (10.11 El Capitan) users**: There is a known issue with Apple and
-its included python package dependencies (more info at
-https://github.com/pypa/pip/issues/3165).
-We are investigating ways to fix this issue but in the meantime,
-to install the aws-shell, you can run:
-``sudo pip install aws-shell --upgrade --ignore-installed six``
+How to use
+============
 
-Once you've installed the aws-shell, you can now run::
 
-    $ aws-shell
+FAQs
+============
 
-To exit the shell, press ``Ctrl-D``.
-
-Upgrading the aws-shell
+Upgrading ...
 -----------------------
 
 
-https://s3.eu-central-1.amazonaws.com/eps-eu-external-file-share/Settlement_Report_Aggregator/settlement_report_aggregator_for_amazon_payments-current.xpi
