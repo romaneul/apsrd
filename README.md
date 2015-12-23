@@ -1,8 +1,8 @@
-aws-shell - The interactive productivity booster for the AWS CLI
+Settlement Report Aggregator for Amazon Payments - Firefox Addon
 ================================================================
 
 
-![Awesome cat gif](https://aws-developer-blog-media.s3-us-west-2.amazonaws.com/cli/Super-Charge-Your-AWS-Command-Line-Experience-with-aws-shell/aws-shell-final.gif)
+![Awesome cat gif](https://s3.eu-central-1.amazonaws.com/eps-eu-external-file-share/Settlement_Report_Aggregator/documentation/settlement_report_aggregator_setup.gif)
 
 
 Installation
