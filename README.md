@@ -1,7 +1,8 @@
 aws-shell - The interactive productivity booster for the AWS CLI
 ================================================================
 
-.. image:: https://aws-developer-blog-media.s3-us-west-2.amazonaws.com/cli/Super-Charge-Your-AWS-Command-Line-Experience-with-aws-shell/aws-shell-final.gif
+
+![Awesome cat gif](https://aws-developer-blog-media.s3-us-west-2.amazonaws.com/cli/Super-Charge-Your-AWS-Command-Line-Experience-with-aws-shell/aws-shell-final.gif)
 
 
 Installation
