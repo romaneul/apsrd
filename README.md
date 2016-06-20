@@ -21,6 +21,14 @@ Once installed you see a the extensions's icon ![addon_button_icon](https://s3.e
 
 How to use
 ============
+1. Select a start date
+2. Select an end date
+3. Selecct a folder to store the generated report
+4. Click on "Get Report"
+
+
+![how_to_use](https://s3.eu-central-1.amazonaws.com/eps-eu-external-file-share/Settlement_Report_Aggregator/documentation/report_aggregator_how_it_works.png)
+
 
 
 FAQs
